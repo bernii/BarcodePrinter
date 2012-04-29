@@ -7,4 +7,4 @@ Used PIL barcode generator by Erik Karulf available at [GitHub](https://gist.git
 
 ### Online DEMO
 
-This code generator/printer has become a part of online app and is available at [labs.extensa.pl/barcode](http://labs.extensa.pl/barcode). Check it out if you don't know if you are not sure it this the thing you were looking for.
+This code generator/printer has become a part of online app and is available at [labs.extensa.pl/barcode](http://labs.extensa.pl/barcode). Check it out if you are not sure that this is the thing you were looking for.
